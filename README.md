@@ -64,9 +64,7 @@ Final Setup:
 # 📸 Screenshots
 
 Birds App login page
-<img width="1297" height="675" alt="cl15" src="https://github.com/user-attachments/assets/c1774684-a98c-4949-86c4-2038c46e0c40" />
-
-<img width="1365" height="653" alt="cl16" src="https://github.com/user-attachments/assets/5f2bb0f2-1f64-47fe-a66b-1adafa09251a" />
+<img width="1297" height="675" alt="cl15" src="https://github.com/user-attachments/assets/c1774684-a98c-4949-86c4-2038c46e0c40" /> <img width="1365" height="653" alt="cl16" src="https://github.com/user-attachments/assets/5f2bb0f2-1f64-47fe-a66b-1adafa09251a" />
 
 <img width="905" height="630" alt="cl17" src="https://github.com/user-attachments/assets/d53f44c6-c136-4c17-94f3-174527164d44" />
 
