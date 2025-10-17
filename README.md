@@ -97,4 +97,4 @@ Final Setup:
 Joy Imarah
 Medium Article → https://medium.com/@smartyjoy47/securing-the-birds-app-how-i-used-amazon-cognito-to-authenticate-and-authorize-users-on-aws-734037bf8dd7?postPublishedType=initial
 
-LinkedIn → 
+LinkedIn → https://www.linkedin.com/posts/joy-imarah-382b06260_aws-alx-dohardthings-activity-7384951048093806592-KjCf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEA8bpIBN6PrvJ7F9wTez0kV-wK3Cayq8J4
