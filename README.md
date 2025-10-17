@@ -61,9 +61,10 @@ Final Setup:
 - Node.js
 
 
-# 📸 Screenshots (Optional)
+# 📸 Screenshots
 
 Birds App login page
+<img width="1358" height="545" alt="image" src="https://github.com/user-attachments/assets/72cfe685-687a-4d72-86ff-79e54aa1c5f6" />
 
 Cognito user pool setup
 
