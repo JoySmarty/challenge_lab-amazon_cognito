@@ -87,9 +87,9 @@ Final Setup:
 
 # 🏁 Result
 
-✅ Authentication and authorization successfully implemented.
-✅ Role-based access control enforced.
-✅ Secure, token-based access to DynamoDB enabled.
+- Authentication and authorization successfully implemented.
+- Role-based access control enforced.
+- Secure, token-based access to DynamoDB enabled.
 
 
 # 🧠 Author
